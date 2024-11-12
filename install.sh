@@ -26,7 +26,7 @@ else
 fi
 
 source $SCRIPT_DIR/chaotic.sh
-source $SCRIPT_DIR/qtile.sh
+source $SCRIPT_DIR/twms.sh
 source $SCRIPT_DIR/sddm.sh
 source $SCRIPT_DIR/themeing.sh
 source $SCRIPT_DIR/user-apps.sh
