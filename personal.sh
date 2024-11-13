@@ -6,7 +6,7 @@ source $SCRIPT_DIR/colors.sh
 
 emagenta  Setting up git configs
 git config --global user.name "RVSmooth"
-git config --global user.email "itzsubhashis@proton.me"
+git config --global user.email "riveeks.smooth@gmail.com"
 git config --global core.editor "nvim"
 donemsg
 	
